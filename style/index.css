@@ -1,5 +1,6 @@
 @import url(./vendor/fonts.css);
 @import url(./vendor/normalize.css);
+@import url(./vendor/font-awesome/css/font-awesome.min.css);
 @import url(./page/page.css);
 @import url(./container/container.css);
 @import url(./header/header.css);
