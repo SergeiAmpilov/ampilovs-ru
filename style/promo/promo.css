@@ -1,7 +1,12 @@
 .promo {
-
-    margin: 60px 0 0;
+    margin: 20vh 0 0;
     background-size: cover;
     background-position: center;
     background-image: url("../../images/promo-banner-element.png");
+
+    min-height: calc(100vh - 46px - 20vh);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
 }
