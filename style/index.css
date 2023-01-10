@@ -14,3 +14,6 @@
 @import url(./promo/__scroll-down/promo__scroll-down.css);
 @import url(./footer/footer.css);
 @import url(./footer/__content/footer__content.css);
+@import url(./button/button.css);
+@import url(./button/button_color-blue.css);
+@import url(./button/button_color-yellow.css);
