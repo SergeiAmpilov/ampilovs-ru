@@ -1,0 +1,13 @@
+.portfolio__item-content {
+  height: calc(100% - 40px);
+  color: white;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, .3);
+  visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px 80px;
+  text-align: center;
+}
+

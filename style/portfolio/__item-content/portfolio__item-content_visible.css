@@ -1,0 +1,5 @@
+.portfolio__item-content_visible {
+  /* display: block; */
+  visibility: visible;
+
+}

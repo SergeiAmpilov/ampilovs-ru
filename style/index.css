@@ -15,12 +15,19 @@
 @import url(./promo/__column/promo__column.css);
 @import url(./promo/__subtext/promo__subtext.css);
 @import url(./promo/__scroll-down/promo__scroll-down.css);
+@import url(./portfolio/portfolio.css);
+@import url(./portfolio/__title/portfolio__title.css);
 @import url(./portfolio/__row/portfolio__row.css);
 @import url(./portfolio/__item/portfolio__item.css);
 @import url(./portfolio/__item/_size/portfolio__item_size-60.css);
 @import url(./portfolio/__item/_size/portfolio__item_size-30.css);
-
-
+@import url(./portfolio/__item-content/portfolio__item-content.css);
+@import url(./portfolio/__item-content/portfolio__item-content_visible.css);
+@import url(./portfolio/__item/_title/portfolio__item_title.css);
+@import url(./portfolio/__item/_description/portfolio__item_description.css);
+@import url(./portfolio/__item/_tech-list/portfolio__item_tech-list.css);
+@import url(./portfolio/__item/_tech-element/portfolio__item_tech-element.css);
+@import url(./portfolio/__item/_link/portfolio__item_link.css);
 @import url(./footer/footer.css);
 @import url(./footer/__content/footer__content.css);
 @import url(./button/button.css);
