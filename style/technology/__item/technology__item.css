@@ -1,0 +1,18 @@
+.technology__item {
+  margin-left: 20px;
+  padding: 20px;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  
+  border: 1px solid #043873;
+  border-radius: 8px;
+
+  color: #043873;
+  background-color: #FFE492;
+}
+
+.technology__item:first-child {
+  margin-left: 0;
+}
