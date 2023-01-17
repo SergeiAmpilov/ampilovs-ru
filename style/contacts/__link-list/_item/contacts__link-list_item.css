@@ -1,0 +1,7 @@
+.contacts__link-list_item {
+  margin-left: 20px;
+}
+
+.contacts__link-list_item:first-child {
+  margin-left: 0;
+}
