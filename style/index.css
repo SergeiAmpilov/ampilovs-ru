@@ -15,6 +15,8 @@
 @import url(./promo/__column/promo__column.css);
 @import url(./promo/__subtext/promo__subtext.css);
 @import url(./promo/__scroll-down/promo__scroll-down.css);
+@import url(./promo/__subtext/_job/promo__subtext_job.css);
+@import url(./promo/__subtext/_project/promo__subtext_project.css);
 @import url(./portfolio/portfolio.css);
 @import url(./portfolio/__title/portfolio__title.css);
 @import url(./portfolio/__row/portfolio__row.css);
