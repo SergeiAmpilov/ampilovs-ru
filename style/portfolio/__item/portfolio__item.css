@@ -1,3 +1,4 @@
 .portfolio__item {
   background-color: gray;
+  position: relative;
 }

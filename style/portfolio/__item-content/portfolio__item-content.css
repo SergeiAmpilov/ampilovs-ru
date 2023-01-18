@@ -1,8 +1,10 @@
 .portfolio__item-content {
+  position: absolute;
+  top: 0;
   height: calc(100% - 40px);
   color: white;
   border-radius: 20px;
-  background-color: rgba(0, 0, 0, .3);
+  background-color: rgba(0, 0, 0, .8);
   visibility: hidden;
   display: flex;
   flex-direction: column;

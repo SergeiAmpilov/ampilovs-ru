@@ -20,6 +20,7 @@
 @import url(./portfolio/portfolio.css);
 @import url(./portfolio/__title/portfolio__title.css);
 @import url(./portfolio/__row/portfolio__row.css);
+@import url(./portfolio/__video/portfolio__video.css);
 @import url(./portfolio/__item/portfolio__item.css);
 @import url(./portfolio/__item/_size/portfolio__item_size-60.css);
 @import url(./portfolio/__item/_size/portfolio__item_size-30.css);

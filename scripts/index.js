@@ -1,6 +1,7 @@
 
 const handleHover = (evt) => {
-  const contentElement = evt.target.querySelector('.portfolio__item-content');
+  const contentElement = evt.target.parentNode.querySelector('.portfolio__item-content');
+
   if (contentElement 
     && contentElement.classList 
     && !contentElement.classList.contains('portfolio__item-content_visible')) {
