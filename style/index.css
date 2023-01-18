@@ -33,6 +33,7 @@
 @import url(./portfolio/__item/_link/portfolio__item_link.css);
 @import url(./contacts/contacts.css);
 @import url(./contacts/__content/contacts__content.css);
+@import url(./contacts/__content/_left/contacts__content_left.css);
 @import url(./contacts/__title/contacts__title.css);
 @import url(./contacts/__paragraph/contacts__paragraph.css);
 @import url(./contacts/__image/contacts__image.css);
