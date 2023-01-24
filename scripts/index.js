@@ -9,15 +9,6 @@ const handleHover = (evt) => {
     }  
 }
 
-// const handleMouseOut = (evt) => {
-//   const outElement = evt.target;
-//   if (outElement.classList
-//       && outElement.classList.contains('portfolio__item-content_visible')) {
-//         outElement.classList.remove('portfolio__item-content_visible');
-//       }
-// };
-
 document.querySelectorAll('.portfolio__item').forEach( (element) => {
   element.addEventListener('mouseover', handleHover);
-  // element.addEventListener('mouseout', handleMouseOut);
 })
