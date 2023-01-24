@@ -1,6 +1,6 @@
 .portfolio__item-content {
-  position: absolute;
-  top: 0;
+  /* position: absolute; */
+  /* top: 0; */
   height: calc(100% - 40px);
   color: white;
   border-radius: 20px;
