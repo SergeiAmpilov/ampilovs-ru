@@ -1,10 +1,6 @@
 .portfolio__item-content {
-  /* position: absolute; */
-  /* top: 0; */
   height: calc(100% - 40px);
-  color: white;
   border-radius: 20px;
-  background-color: rgba(0, 0, 0, .8);
   visibility: hidden;
   display: flex;
   flex-direction: column;
@@ -13,3 +9,12 @@
   text-align: center;
 }
 
+.portfolio__item_size-60 .portfolio__item-content {
+  color: white;
+  background-color: rgba(079, 156, 249, .9);
+}
+
+.portfolio__item_size-30 .portfolio__item-content {
+  color: #043873;
+  background-color: rgba(255, 228, 146, .9);
+}
