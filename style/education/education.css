@@ -1,9 +1,9 @@
 .education {
-  padding-top: 60px;
+  padding: 60px 0;
   background-color: #043873;
   color: #fff;
   background-size: contain;
   background-position: -8%;
-  background-image: url(../../images/msubg.png);
+  background-image: url(../../images/msubgopacity.png);
   background-repeat: no-repeat;
 }

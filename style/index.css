@@ -52,6 +52,9 @@
 @import url(./technology/__group/_img/technology__group_img.css);
 @import url(./technology/__group/_text/technology__group_text.css);
 @import url(./education/education.css);
+@import url(./education/__title/education__title.css);
+@import url(./education/__list/education__list.css);
+@import url(./education/__columns/education__columns.css);
 
 
 @import url(./footer/footer.css);
