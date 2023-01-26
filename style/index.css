@@ -54,6 +54,8 @@
 @import url(./education/education.css);
 @import url(./education/__title/education__title.css);
 @import url(./education/__list/education__list.css);
+@import url(./education/__list/_item/education__list_item.css);
+@import url(./education/__list/_item-name/education__list_item-name.css);
 @import url(./education/__columns/education__columns.css);
 
 
