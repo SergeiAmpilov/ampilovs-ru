@@ -51,6 +51,9 @@
 @import url(./technology/__group/technology__group.css);
 @import url(./technology/__group/_img/technology__group_img.css);
 @import url(./technology/__group/_text/technology__group_text.css);
+@import url(./education/education.css);
+
+
 @import url(./footer/footer.css);
 @import url(./footer/__content/footer__content.css);
 @import url(./button/button.css);
