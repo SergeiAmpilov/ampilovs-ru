@@ -43,6 +43,7 @@
 @import url(./contacts/__image/contacts__image.css);
 @import url(./contacts/__link-list/contacts__link-list.css);
 @import url(./contacts/__link-list/_item/contacts__link-list_item.css);
+@import url(./contacts/__mail-link/contacts__mail-link.css);
 @import url(./contacts/__icon/contacts__icon.css);
 @import url(./technology/technology.css);
 @import url(./technology/__section/technology__section.css);
