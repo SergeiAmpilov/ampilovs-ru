@@ -25,3 +25,28 @@
 .promo__title:hover::after {
     opacity: 1;
 }
+
+@media screen and (max-width: 1152px) {
+    .promo__title {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .promo__title::after {
+        left: 0px;
+        top: 40px;
+        width: 78%;
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .promo__title {
+        text-align: center;
+    }
+
+    .promo__title::after {
+        left: 15%;
+        width: 70%;
+    }
+}
