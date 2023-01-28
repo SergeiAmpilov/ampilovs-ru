@@ -58,10 +58,9 @@
 @import url(./education/__list/_item/education__list_item.css);
 @import url(./education/__list/_item-name/education__list_item-name.css);
 @import url(./education/__columns/education__columns.css);
-
-
 @import url(./footer/footer.css);
 @import url(./footer/__content/footer__content.css);
+@import url(./footer/__element/footer__element.css);
 @import url(./button/button.css);
 @import url(./button/button_color-blue.css);
 @import url(./button/button_color-yellow.css);
