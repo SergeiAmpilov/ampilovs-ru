@@ -21,3 +21,28 @@ const handleHover = (evt) => {
 porfolioItemList.forEach( (element) => {
   element.addEventListener('mouseover', handleHover);
 })
+
+
+/* popup */
+const openPopup = () => {
+  document.querySelector('.popup').classList.remove('popup__hidden');
+}
+
+const closePopup = () => {
+  document.querySelector('.popup').classList.add('popup__hidden');
+}
+
+const handleOpenPopup = (evt) => {
+  evt.preventDefault();
+  document.querySelector('body').classList.add('stop-scrolling');
+  openPopup();
+  console.log(evt.target);
+}
+
+const handleClosePopup = (evt) => {
+  document.querySelector('body').classList.remove('stop-scrolling');
+  closePopup();
+}
+
+document.querySelectorAll('.popup__button').forEach( el => el.addEventListener('click', handleOpenPopup) );
+document.querySelectorAll('.popup__container').forEach( el => el.addEventListener('click', handleClosePopup) );
