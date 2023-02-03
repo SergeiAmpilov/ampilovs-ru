@@ -44,5 +44,5 @@ const handleClosePopup = (evt) => {
   closePopup();
 }
 
-document.querySelectorAll('.popup__button').forEach( el => el.addEventListener('click', handleOpenPopup) );
+document.querySelectorAll('.sertificates__list_img').forEach( el => el.addEventListener('click', handleOpenPopup) );
 document.querySelectorAll('.popup__container').forEach( el => el.addEventListener('click', handleClosePopup) );
