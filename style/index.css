@@ -62,8 +62,6 @@
 @import url(./sertificates/__list/sertificates__list.css);
 @import url(./sertificates/__list/_item/sertificates__list_item.css);
 @import url(./sertificates/__list/_img/sertificates__list_img.css);
-
-
 @import url(./footer/footer.css);
 @import url(./footer/__content/footer__content.css);
 @import url(./footer/__element/footer__element.css);
@@ -73,4 +71,5 @@
 @import url(./stop-scrolling/stop-scrolling.css);
 @import url(./popup/__container/popup__container.css);
 @import url(./popup/__content/popup__content.css);
+@import url(./popup/__img/popup__img.css);
 @import url(./popup/__hidden/popup__hidden.css);

@@ -24,19 +24,28 @@ porfolioItemList.forEach( (element) => {
 
 
 /* popup */
-const openPopup = () => {
-  document.querySelector('.popup').classList.remove('popup__hidden');
+
+const popupElement = document.querySelector('.popup');
+const imgInPopup = popupElement.querySelector('.popup__img');
+
+
+const openPopup = ({ src, alt }) => {
+  imgInPopup.src = src;
+  imgInPopup.alt = alt;
+  popupElement.classList.remove('popup__hidden');
 }
 
 const closePopup = () => {
+  imgInPopup.src = '';
+  imgInPopup.alt = '';
   document.querySelector('.popup').classList.add('popup__hidden');
 }
 
 const handleOpenPopup = (evt) => {
   evt.preventDefault();
+  const { src, alt } = evt.target;
   document.querySelector('body').classList.add('stop-scrolling');
-  openPopup();
-  console.log(evt.target);
+  openPopup({ src, alt });
 }
 
 const handleClosePopup = (evt) => {

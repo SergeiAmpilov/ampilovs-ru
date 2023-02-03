@@ -1,5 +1,6 @@
 .popup__content {
-  width: 600px;
-  background-color: #fff;
+  /* width: 600px;
+  background-color: #fff; */
   margin: 0 auto;
+  text-align: center;
 }
