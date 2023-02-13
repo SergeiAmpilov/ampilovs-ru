@@ -1,9 +1,9 @@
 .sertificates__list_img {
-  width: 350px;
+  width: 250px;
 }
 
 @media screen and (max-width: 768px) {
   .sertificates__list_img {
-    width: 280px;
+    width: 200px;
   }
 }
