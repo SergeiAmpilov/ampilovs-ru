@@ -7,7 +7,7 @@
 HTML, CSS, БЭМ, Javascript, font-awesome, PHP
 
 # Ссылки
-[Go live ampilovs.ru](http://ampilovs.ru/)
+[Go live ampilovs.ru](https://ampilovs.ru/)
 
 [Github Repository](https://github.com/SergeiAmpilov/ampilovs-ru)
 
