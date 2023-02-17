@@ -98,6 +98,7 @@
                 <li class="portfolio__item_tech-element">HTML</li>
                 <li class="portfolio__item_tech-element">CSS</li>
                 <li class="portfolio__item_tech-element">JavaScript</li>
+                <li class="portfolio__item_tech-element">PHP</li>
               </ul>
               <a 
               href="https://github.com/SergeiAmpilov/ampilovs-ru"
@@ -145,7 +146,7 @@
                 How to learn
               </h3>
               <p class="portfolio__item_description">
-                Учебный проект. Одностраничный сайт на тему обучения
+                Как научиться учиться. Учебный проект на тему методик обучения и повышения эффективности
               </p>
               <ul class="portfolio__item_tech-list">
                 <li class="portfolio__item_tech-element">HTML</li>
