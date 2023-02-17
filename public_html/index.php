@@ -139,6 +139,36 @@
               </div>
             </div>
           </div>
+          <div class="portfolio__item portfolio__item_size-60 portfolio__htl">
+            <div class="portfolio__item-content">
+              <h3 class="portfolio__item_title">
+                How to learn
+              </h3>
+              <p class="portfolio__item_description">
+                Учебный проект. Одностраничный сайт на тему обучения
+              </p>
+              <ul class="portfolio__item_tech-list">
+                <li class="portfolio__item_tech-element">HTML</li>
+                <li class="portfolio__item_tech-element">CSS</li>
+                <li class="portfolio__item_tech-element">БЭМ</li>
+                <li class="portfolio__item_tech-element">github</li>
+              </ul>
+              <div class="portfolio__item_list-links">
+                <a 
+                  href="https://github.com/SergeiAmpilov/how-to-learn"
+                  target="_blank"
+                  class="portfolio__item_link">
+                  GitHub
+                </a>              
+                <a 
+                  href="https://ampilovs.ru/demo/how-to-learn/"
+                  target="_blank"
+                  class="portfolio__item_link">
+                  Go Live
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>      
     </div>
