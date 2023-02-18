@@ -211,14 +211,6 @@
             </div>
           </div>
         </div>
-
-
-
-
-
-
-
-
       </div>      
     </div>
     <div class="contacts" id="contacts">
