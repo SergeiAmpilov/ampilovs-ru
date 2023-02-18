@@ -171,6 +171,48 @@
             </div>
           </div>
         </div>
+
+        <div class="portfolio__row">
+          <div class="portfolio__item portfolio__item_size-60 portfolio__rut">
+            <div class="portfolio__item-content">
+              <h3 class="portfolio__item_title">
+                Russian travel
+              </h3>
+              <p class="portfolio__item_description">
+                Сайт посвящен путешествияс по Россия
+              </p>
+              <ul class="portfolio__item_tech-list">
+                <li class="portfolio__item_tech-element">HTML</li>
+                <li class="portfolio__item_tech-element">CSS</li>
+                <li class="portfolio__item_tech-element">БЭМ</li>
+                <li class="portfolio__item_tech-element">Grid</li>
+                <li class="portfolio__item_tech-element">github</li>
+              </ul>
+              <div class="portfolio__item_list-links">
+                <a 
+                  href="https://github.com/SergeiAmpilov/russian-travel"
+                  target="_blank"
+                  class="portfolio__item_link">
+                  GitHub
+                </a>              
+                <a 
+                  href="https://ampilovs.ru/demo/russian-travel/"
+                  target="_blank"
+                  class="portfolio__item_link">
+                  Go Live
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
       </div>      
     </div>
     <div class="contacts" id="contacts">
