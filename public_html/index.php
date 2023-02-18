@@ -179,7 +179,7 @@
                 Russian travel
               </h3>
               <p class="portfolio__item_description">
-                Сайт посвящен путешествияс по Россия
+                Сайт посвящен путешествиям по Россия
               </p>
               <ul class="portfolio__item_tech-list">
                 <li class="portfolio__item_tech-element">HTML</li>
@@ -194,7 +194,13 @@
                   target="_blank"
                   class="portfolio__item_link">
                   GitHub
-                </a>              
+                </a>
+                <a 
+                  href="https://sergeiampilov.github.io/russian-travel/"
+                  target="_blank"
+                  class="portfolio__item_link">
+                  Go Live on Github Pages
+                </a>
                 <a 
                   href="https://ampilovs.ru/demo/russian-travel/"
                   target="_blank"
