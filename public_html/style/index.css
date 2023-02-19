@@ -78,3 +78,8 @@
 @import url(./popup/__content/popup__content.css);
 @import url(./popup/__img/popup__img.css);
 @import url(./popup/__hidden/popup__hidden.css);
+@import url(./page-404/__content/page-404__content.css);
+@import url(./page-404/__img/page-404__img.css);
+@import url(./page-404/__title/page-404__title.css);
+@import url(./page-404/__text/page-404__text.css);
+
